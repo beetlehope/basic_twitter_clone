@@ -1,0 +1,95 @@
+[33mcommit afc9979f62b3bc1586c97e98637d33316ab40440[m
+Author: beetlehope <beetlehope@gmail.com>
+Date:   Thu Jul 27 14:34:56 2017 +0300
+
+    Add user microposts
+
+[33mcommit c4766cde63bd1348b274a2cf1c7c45a8614b309d[m
+Author: beetlehope <beetlehope@gmail.com>
+Date:   Mon Jul 24 23:15:01 2017 +0300
+
+    Add password reset
+
+[33mcommit e88367d4895115deb683f60179002a0e7ab620a3[m
+Author: beetlehope <beetlehope@gmail.com>
+Date:   Mon Jul 24 17:52:46 2017 +0300
+
+    Add account activation
+
+[33mcommit 1927e4b9e8ceccc0c0eb9b6a853f8335e7304441[m
+Author: beetlehope <beetlehope@gmail.com>
+Date:   Mon Jul 24 00:58:52 2017 +0300
+
+    Finish user edit, update, index, and destroy actions
+
+[33mcommit 205af09dbbbec1b5038a8ce75eb299b442f9b509[m
+Author: beetlehope <beetlehope@gmail.com>
+Date:   Sun Jul 23 16:43:46 2017 +0300
+
+    Implement advanced login
+
+[33mcommit 18b9d209934d5bf3419881d1e197d9c31bcd6a72[m
+Author: beetlehope <beetlehope@gmail.com>
+Date:   Sat Jul 22 22:03:01 2017 +0300
+
+    Implement basic login
+
+[33mcommit 4f39b573dc4fac3a9c8d20a3e1bb86ad3cb7ed3a[m
+Author: beetlehope <beetlehope@gmail.com>
+Date:   Sat Jul 22 18:06:40 2017 +0300
+
+    Use SSL and the Puma webserver in production
+
+[33mcommit 1b09f847908fc6c366933397a8c3321996ab84cc[m
+Author: beetlehope <beetlehope@gmail.com>
+Date:   Sat Jul 22 18:01:43 2017 +0300
+
+    Finish user signup
+
+[33mcommit 2e11674b71800d9b13f58d6de9c9e66397ce136a[m
+Author: beetlehope <beetlehope@gmail.com>
+Date:   Fri Jul 21 22:08:52 2017 +0300
+
+    Make a basic User model (including secure passwords)
+
+[33mcommit 643a79cda2ce38e054090229f31acc93d4fe1422[m
+Author: beetlehope <beetlehope@gmail.com>
+Date:   Thu Jul 20 22:59:49 2017 +0300
+
+    Finish layout and routes
+
+[33mcommit 03563b98ccde0e8f57a78c6506e7c9ca4138604c[m
+Author: beetlehope <beetlehope@gmail.com>
+Date:   Thu Jul 20 18:44:12 2017 +0300
+
+    Add a full_title helper
+
+[33mcommit a5a7cd59a8306713f038ebad586b2fde5029eee8[m
+Author: beetlehope <beetlehope@gmail.com>
+Date:   Wed Jul 19 22:03:14 2017 +0300
+
+    Finish static pages
+
+[33mcommit 08afd6251d1a9575f69f287b520b827c1f9e096c[m
+Author: beetlehope <beetlehope@gmail.com>
+Date:   Wed Jul 19 21:26:34 2017 +0300
+
+    Add a Static Pages controller
+
+[33mcommit 0f3e5cfc6d5cb19506eea705bc23bb6fbce5c7b0[m
+Author: beetlehope <beetlehope@gmail.com>
+Date:   Wed Jul 19 20:58:21 2017 +0300
+
+    Add hello
+
+[33mcommit 32a97e2602f37a3b18220309626fb310e87df322[m
+Author: beetlehope <beetlehope@gmail.com>
+Date:   Wed Jul 19 20:53:53 2017 +0300
+
+    Improve the README
+
+[33mcommit 01052b0bdfd5d2c030e8fd9ae39389743db383c3[m
+Author: beetlehope <beetlehope@gmail.com>
+Date:   Wed Jul 19 20:53:13 2017 +0300
+
+    Initialize repository
